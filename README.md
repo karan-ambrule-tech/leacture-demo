@@ -1,2 +1,2 @@
 # leacture-demo
-this is is demo class
+this is is demo class.
